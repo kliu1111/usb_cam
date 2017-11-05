@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 usb_cam [![Build Status](https://api.travis-ci.org/bosch-ros-pkg/usb_cam.png)](https://travis-ci.org/bosch-ros-pkg/usb_cam)
 =======
 
@@ -13,3 +14,6 @@ usb_cam is released with a BSD license. For full terms and conditions, see the [
 
 ### Authors
 See the [AUTHORS](AUTHORS.md) file for a full list of contributors.
+=======
+# usb_cam
+>>>>>>> 452924eff335657fecd7b6e5a52a283d0226e030
